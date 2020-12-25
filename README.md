@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 color="red">OMG! I am on GitHub</h1>
+<h1>OMG! I am on GitHub</h1>
