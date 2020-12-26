@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table rules=none>
+<table>
   <tbody>
     <tr>
     <td><img src="np++.png"></td>
