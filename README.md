@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="np++.png">Notepad++ is my favourite editor.
+<table>
+  <tbody>
+    <td><img src="np++.png"></td>
+    <td>Notepad++ is my favourite editor.</td>
+  </tbody>
+</table>
