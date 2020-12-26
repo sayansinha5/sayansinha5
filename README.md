@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="np++.png"><h1>OMG! I am on GitHub</h1>
+<img src="np++.png">Notepad++ is my favourite editor.
