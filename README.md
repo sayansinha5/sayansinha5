@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
+<table cellspacing="0" cellpadding="0">
   <tbody>
+    <tr>
     <td><img src="np++.png"></td>
     <td>Notepad++ is my favourite editor.</td>
+    </tr>
   </tbody>
 </table>
