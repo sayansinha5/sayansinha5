@@ -1,22 +1,16 @@
 <h1 align="center">Hello There! 👋, I'm Sayan Sinha</h1>
 <h3 align="center">Passionate Web Developer from India</h3>
-
-- 🔭 I’m currently working on **Super**
-- 🌱 I’m currently learning **React**
-- 👯 I’m looking to collaborate on **Super**
-- 🤝 I’m looking for help with **Super**
-- 👨‍💻 All of my projects are available at [sfas](sfas)
-- 📝 I regularly write articles on [asfasf](asfasf)
-- 💬 Ask me about **sdgsd**
-- 📫 How to reach me **sayansinha5@gmail.com**
-- 📄 Know about my experiences [asfasf](asfasf)
-- ⚡ Fun fact **Notepad++ <3**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/fgfj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fgfj" height="30" width="40" /></a>
 <a href="https://instagram.com/dfgdfh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dfgdfh" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+🔭 Currently **Focusing**<br />
+🌱 Always **Learning**<br />
+👯 Looking for **Collaboration**<br />
+</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
