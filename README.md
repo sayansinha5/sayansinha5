@@ -23,9 +23,11 @@
 🔭 Currently <strong>Focusing</strong><br />
 🌱 Always <strong>Learning</strong><br />
 👯 Looking for <strong>Collaboration</strong><br />
+⚡  Fun fact: Coffee instead of Tea.<br />
 </h4>
 
+<h5 align="center">Reach me out: </h5>
 <p align="center">
-<a href="https://linkedin.com/in/fgfj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fgfj" height="30" width="40" /></a>
-<a href="https://instagram.com/dfgdfh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dfgdfh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayan-sinha-5mca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sayan-sinha-5mca" height="30" width="40" /></a>
+<a href="https://instagram.com/mrsupermb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrsupermb" height="30" width="40" /></a>
 </p>
