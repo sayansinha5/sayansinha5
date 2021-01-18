@@ -22,7 +22,7 @@
 <h3 align="center">
   Passionate Web Developer from India
   <br />
-   <a href="https://linkedin.com/in/sayan-sinha-5mca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sayan-sinha-5mca" height="30" width="40" /></a><a href="mailto:sayansinha5@gmail.com">sayansinha5@gmail.com</a> 
+   <a href="https://linkedin.com/in/sayan-sinha-5mca" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/minutemailer.svg" alt="sayan-sinha-5mca" height="30" width="40" /></a><a href="mailto:sayansinha5@gmail.com">sayansinha5@gmail.com</a> 
 </h3>
 
 <h5 align="center">Reach me out: </h5>
