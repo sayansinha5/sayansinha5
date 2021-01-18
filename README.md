@@ -22,7 +22,7 @@
 <h3 align="center">
   Passionate Web Developer from India
   <br />
-  (sayansinha5@gmail.com)
+  <span color="red">(sayansinha5@gmail.com)[sayansinha5@gmail.com](mailto:sayansinha5@gmail.com)</span>
 </h3>
 
 <h5 align="center">Reach me out: </h5>
