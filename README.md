@@ -19,11 +19,11 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">
+<h3 align="center">
 🔭 Currently <strong>Focusing</strong><br />
 🌱 Always <strong>Learning</strong><br />
 👯 Looking for <strong>Collaboration</strong><br />
-</p>
+</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/fgfj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fgfj" height="30" width="40" /></a>
