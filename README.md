@@ -1,19 +1,6 @@
 <h1 align="center">Hello There! 👋, I'm Sayan Sinha</h1>
 <h3 align="center">Passionate Web Developer from India</h3>
-<p align="center">
-<a href="https://linkedin.com/in/fgfj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fgfj" height="30" width="40" /></a>
-<a href="https://instagram.com/dfgdfh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dfgdfh" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-🔭 Currently **Focusing**<br />
-🌱 Always **Learning**<br />
-👯 Looking for **Collaboration**<br />
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
   </a> 
   <a href="https://bulma.io/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
@@ -31,5 +18,18 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
+<p align="center">
+<a href="https://linkedin.com/in/fgfj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fgfj" height="30" width="40" /></a>
+<a href="https://instagram.com/dfgdfh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dfgdfh" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+🔭 Currently <strong>Focusing</strong><br />
+🌱 Always <strong>Learning</strong><br />
+👯 Looking for <strong>Collaboration</strong><br />
+</p>
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayansinha5&show_icons=true&locale=en&layout=compact" alt="sayansinha5" /></p>
