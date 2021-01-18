@@ -20,12 +20,12 @@
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a> 
 </p>
 <h3 align="center">Passionate Web Developer from India</h3>
-<h4 align="center">
-⚡  Fun fact: Coffee instead of Tea.<br />
-</h4>
 
 <h5 align="center">Reach me out: </h5>
 <p align="center">
 <a href="https://linkedin.com/in/sayan-sinha-5mca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sayan-sinha-5mca" height="30" width="40" /></a>
 <a href="https://instagram.com/mrsupermb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrsupermb" height="30" width="40" /></a>
 </p>
+<h4 align="center">
+⚡  Fun fact : Coffee instead of Tea.<br />
+</h4>
