@@ -19,7 +19,11 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a> 
 </p>
-<h3 align="center">Passionate Web Developer from India</h3>
+<h3 align="center">
+  Passionate Web Developer from India
+  <br />
+  (sayansinha5@gmail.com)
+</h3>
 
 <h5 align="center">Reach me out: </h5>
 <p align="center">
