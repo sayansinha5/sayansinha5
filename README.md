@@ -1,5 +1,5 @@
 <h1 align="left">Hello There! 👋 <br />I'm Sayan Sinha</h1>
-<img align="right" src="images/web_developer.svg" width="400" />
+<img align="right" src="https://www.ravsanmedia.com/web_assets/images/website.gif" width="500" />
 
 <h3 align="left">
   Passionate Web Developer from India
