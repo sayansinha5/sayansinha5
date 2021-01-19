@@ -1,9 +1,9 @@
 <h2 align="left">Hello There! 👋 <br />I'm Sayan Sinha</h2>
 <img align="right" src="images/website.gif" width="550" />
 
-<h4 align="left">
+<h3 align="left">
   Passionate Web Developer from India
-</h4>
+</h3>
 
 <h4 align="left">
   Let's connect<br /><br />
@@ -14,5 +14,5 @@
  Drop me a Mail : <a href="mailto:sayansinha5@gmail.com">
   sayansinha5@gmail.com</a>
   <br />
-⚡     Fun fact : Notepad++ is the best editor<br />
+⚡ &nbsp;Fun fact : Notepad++ is the best editor<br />
 </h4>
