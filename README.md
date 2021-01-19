@@ -5,8 +5,8 @@
   Passionate Web Developer from India
 </h4>
 
-<h4 align="left">Let's connect</h4>
 <h4 align="left">
+  Let's connect<br />
 <a href="https://linkedin.com/in/sayan-sinha-5mca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sayan-sinha-5mca" height="30" width="40" /></a>
 <a href="https://instagram.com/mrsupermb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrsupermb" height="30" width="40" /></a>
   <br /><br />
