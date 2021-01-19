@@ -1,7 +1,4 @@
-<h1>
-  <span align="left">Hello There! 👋 <br />I'm Sayan Sinha</span>
-  <span align="right">Reach me out</span>
-</h1>
+<h2 align="left">Hello There! 👋 <br />I'm Sayan Sinha</h2>
 <img align="right" src="https://www.ravsanmedia.com/web_assets/images/website.gif" width="600" />
 
 <h4 align="left">
