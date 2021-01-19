@@ -14,5 +14,5 @@
 <a href="https://instagram.com/mrsupermb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrsupermb" height="30" width="40" /></a>
 </p>
 <h4 align="left">
-⚡  Fun fact : <br /><img src="np++.png" height="64" width="64"><br />Notepad++ is the best editor<br />
+⚡  Fun fact : Notepad++ is the best editor<br />
 </h4>
