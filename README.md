@@ -5,11 +5,11 @@
   Passionate Web Developer from India
 </h3>
 
-<h4 align="left">
+<h3 align="left">
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sayan-sinha-5mca" height="14" width="20" />
   <a href="mailto:sayansinha5@gmail.com">
   sayansinha5@gmail.com</a>
- </h4>
+ </h3>
 
 <h4 align="left">
   Let's connect<br /><br />
