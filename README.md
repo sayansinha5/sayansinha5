@@ -1,12 +1,12 @@
 <h1 align="left">Hello There! 👋 <br />I'm Sayan Sinha</h1>
-<img align="right" src="https://www.ravsanmedia.com/web_assets/images/website.gif" width="500" />
+<img align="right" src="https://www.ravsanmedia.com/web_assets/images/website.gif" width="600" />
 
-<h3 align="left">
+<h4 align="left">
   Passionate Web Developer from India
   <br />
-   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sayan-sinha-5mca" height="20" width="30" />
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sayan-sinha-5mca" height="10" width="20" />
    <a href="mailto:sayansinha5@gmail.com">sayansinha5@gmail.com</a>
-</h3>
+</h4>
 
 <h5 align="left">Reach me out</h5>
 <p align="left">
