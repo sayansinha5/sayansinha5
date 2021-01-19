@@ -5,7 +5,10 @@
   Passionate Web Developer from India
   <br />
    
-   <a href="mailto:sayansinha5@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sayan-sinha-5mca" height="10" width="20" /> sayansinha5@gmail.com</a>
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="sayan-sinha-5mca" height="10" width="20" />
+ Drop a Mail <a href="mailto:sayansinha5@gmail.com"> 
+  <br />
+  sayansinha5@gmail.com</a>
 </h4>
 
 <h4 align="left">Let's connect</h4>
