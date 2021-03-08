@@ -13,8 +13,8 @@
 
 <h4 align="left">
   Let's connect<br /><br />
-<a href="https://linkedin.com/in/sayansinha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linked In" height="30" width="40" /></a>
-<a href="https://instagram.com/mrsupermb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrsupermb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sayansinha5" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="Linked In" height="30" width="40" target="_blank" /></a>
+<a href="https://instagram.com/mrsupermb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mrsupermb" height="30" width="40" target="_blank" /></a>
   <br /><br />
 ⚡ &nbsp;Fun fact : Notepad++ is the best editor<br />
 </h4>
