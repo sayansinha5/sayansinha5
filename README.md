@@ -12,7 +12,8 @@
  </h3>
 
 <h4 align="left">
-  Let's connect<br /><br />
+ - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+ Let's connect<br /><br />
 <a href="https://linkedin.com/in/sayansinha5" target="blank"><img align="center" src="images/logo/linkedin.png" alt="Linked In" height="48" width="48" target="_blank" /></a>
 <a href="https://instagram.com/mrsupermb" target="blank"><img align="center" src="images/logo/insta.png" alt="mrsupermb" height="48" width="48" target="_blank" /></a>
   <br /><br />
