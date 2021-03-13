@@ -7,9 +7,13 @@
 
 <h3 align="left">
    <img src="images/logo/gmail.png" alt="sayansinha5" height="48" width="48" />
-  <a vheight="12" href="mailto:sayansinha5@gmail.com">
+  <a href="mailto:sayansinha5@gmail.com">
   sayansinha5@gmail.com</a>
- </h3>
+</h3>
+
+<h3 align="left">
+  <a href="https://sayansinha5.github.io/My-Portfolio/">https://sayansinha5.github.io/My-Portfolio</a>
+</h3>
 
 <h4 align="left">
  Let's connect<br /><br />
