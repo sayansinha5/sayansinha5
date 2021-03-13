@@ -6,7 +6,7 @@
 </h3>
 
 <h3 align="left">
-   <img src="images/logo/gmail.png" alt="sayansinha5" height="48" width="48" />
+   <img src="images/logo/gmail.png" alt="sayansinha5" height="32" width="32" />
   <a href="mailto:sayansinha5@gmail.com">
   sayansinha5@gmail.com</a>
 </h3>
