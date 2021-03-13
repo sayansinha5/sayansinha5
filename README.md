@@ -1,5 +1,5 @@
 <h2 align="left">Hello There! 👋 <br />I'm Sayan Sinha</h2>
-<img align="right" src="images/website.gif" width="500" height="175" />
+<img align="right" src="images/coding.gif" width="500" height="175" />
 
 <h3 align="left">
   Passionate Web Developer from India
