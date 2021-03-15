@@ -14,7 +14,7 @@
 <h4 align="left">
   Visit my Portfolio :
   <br />
-  <a href="https://sayansinha5.github.io/My-Portfolio/">https://sayansinha5.github.io/My-Portfolio</a>
+  <a href="https://sayansinha5.github.io/My-Portfolio/" target="_blank">https://sayansinha5.github.io/My-Portfolio</a>
 </h4>
 
 <h4 align="left">
