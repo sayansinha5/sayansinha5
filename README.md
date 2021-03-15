@@ -12,7 +12,7 @@
 </h3>
 
 <h4 align="left">
-  Visit my Portfolio :
+  ⚡ Visit my Portfolio :
   <br />
   <a href="https://sayansinha5.github.io/My-Portfolio/" target="_blank">https://sayansinha5.github.io/My-Portfolio</a>
 </h4>
