@@ -2,7 +2,7 @@
 <img align="right" src="images/website.gif" width="500" height="180" />
 
 <h3 align="left">
-  Web Developer from India
+  Passionate Web Developer from India
 </h3>
 
 <h3 align="left">
