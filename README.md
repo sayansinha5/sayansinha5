@@ -25,5 +25,5 @@
   &nbsp;
 <a href="mailto:sayansinha5@gmail.com" target="blank"><img align="center" src="images/logo/gmail.svg" alt="mrsupermb" height="48" width="48" target="_blank" /></a>
   <br /><br />
-⚡ &nbsp;Fun fact : Notepad++ is the best editor<br />
+⚡ &nbsp;Fun fact : Notepad++ is the best editor.<br />
 </h4>
