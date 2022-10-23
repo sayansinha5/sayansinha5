@@ -24,5 +24,3 @@
 ⚡ &nbsp;Fun fact : Notepad++ is the best editor.<br />
 ⚡ &nbsp;Serious fact : Notepad++ is actually the best editor.<br />
 </h4>
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/langs/?username=sayansinha5&theme=white)
