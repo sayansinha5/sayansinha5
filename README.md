@@ -1,26 +1,18 @@
-<h2 align="left">Hello There! 👋 <br />I'm Sayan Sinha</h2>
-<img align="right" src="images/website.gif" width="500" height="180" />
+# Hello, I'm Sayan Sinha 👋
 
-<h3 align="left">
-   <img src="images/logo/gmail.svg" alt="sayansinha5" height="16" width="16" />
-  <a href="mailto:sayansinha5@gmail.com">
-  sayansinha5@gmail.com</a>
-</h3>
+## About Me
 
-<h4 align="left">
-  ⚡ Portfolio :
-  <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sayansinha5.github.io/My-Portfolio/" target="_blank">https://sayansinha5.github.io/My-Portfolio</a>
-</h4>
+I’m working as a Lead Software Engineer at Wittypen. Building the content platform of the future 💎.
+I spent most of my time on my day job, fixing bugs and building new features. I enjoy when it comes to strategic planning, talking about challenges and exploring new boundaries that can be solved through tech. 💻
+In meantime, I participate in hackathons also I won many.
 
-<h4 align="left">
- Let's connect<br /><br />
-<a href="https://linkedin.com/in/sayansinha5" target="blank"><img align="center" src="images/logo/linkedin.svg" alt="Linked In" height="48" width="48" target="_blank" /></a>
-  &nbsp;
-<a href="https://instagram.com/mrsupermb" target="blank"><img align="center" src="images/logo/insta_alt.svg" alt="mrsupermb" height="48" width="48" target="_blank" /></a>
-  &nbsp;
-<a href="mailto:sayansinha5@gmail.com" target="blank"><img align="center" src="images/logo/gmail.svg" alt="mrsupermb" height="48" width="48" target="_blank" /></a>
-  <br /><br />
-⚡ &nbsp;Fun fact : Notepad++ is the best editor.<br />
-⚡ &nbsp;Serious fact : Notepad++ is actually the best editor.<br />
-</h4>
+## Connect with Me
+
+Feel free to explore my repositories and connect with me if to chat about tech!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/sayansinha5)
+- 🐦 [Twitter](https://twitter.com/sayansinha51)
+- 😎 [Instagram](https://instagram.com/mrsupermb)
+- 📧 [Email](mailto:sayansinha5@gmail.com)
+
+Thanks for stopping by! 🚀
