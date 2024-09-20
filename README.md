@@ -16,5 +16,3 @@ Feel free to explore my repositories and happy to chat about tech!
 - 🐦 [Twitter](https://twitter.com/sayansinha51)
 - 😎 [Instagram](https://instagram.com/mrsupermb)
 - 📧 [Email](mailto:sayansinha5@gmail.com)
-
-Thanks for stopping by! 🚀
