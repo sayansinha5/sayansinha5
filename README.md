@@ -8,7 +8,7 @@ In meantime, I participate in hackathons also I won many.
 
 ## Connect with Me
 
-Feel free to explore my repositories and connect with me if to chat about tech!
+Feel free to explore my repositories and happy to chat about tech!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sayansinha5)
 - 🐦 [Twitter](https://twitter.com/sayansinha51)
