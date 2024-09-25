@@ -8,11 +8,13 @@ I spent most of my time on my day job, review PRs, fixing bugs and building new 
 
 In meantime, not only participated but won many hackathons.
 
+
 ## Connect with Me
 
 Feel free to explore my repositories and happy to chat about tech!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sayansinha5)
 - 🐦 [Twitter](https://twitter.com/sayansinha51)
+- 📰 [Blog articles](https://medium.com/@sayansinha5)
 - 😎 [Instagram](https://instagram.com/mrsupermb)
 - 📧 [Email](mailto:sayansinha5@gmail.com)
