@@ -17,7 +17,7 @@ In meantime, not only participated but won many hackathons.
 - [History of Computer Virus](https://medium.com/@sayansinha5/computer-virus-and-its-history-f2dcec54393f)
 
 
-## Connect with Me
+## Connect with me
 
 Feel free to explore my repositories and happy to chat about tech!
 
