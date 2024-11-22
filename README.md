@@ -4,7 +4,7 @@
 
 I’m working as a Lead Software Engineer at [Wittypen](https://wittypen.com).
 
-I spent most of my time on my day job, review PRs, fixing bugs and building new features. I enjoy when it comes to strategic planning and talking about challenges 💻
+Most of the time I spend on reviewing PRs, fixing bugs, testing features and building something new. I enjoy when it comes to strategic planning and talking about challenges 💻
 
 In meantime, not only participated but won many hackathons.
 
@@ -18,8 +18,6 @@ In meantime, not only participated but won many hackathons.
 
 
 ## Connect with me
-
-Feel free to explore my repositories and happy to chat about tech!
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sayansinha5)
 - 🐦 [Twitter](https://twitter.com/sayansinha51)
