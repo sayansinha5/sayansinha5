@@ -2,7 +2,7 @@
 
 ## About me
 
-I’m working as a Lead Software Engineer at [Wittypen](https://wittypen.com). Building the content platform of the future 💎.
+I’m working as a Lead Software Engineer at [Wittypen](https://wittypen.com).
 
 I spent most of my time on my day job, review PRs, fixing bugs and building new features. I enjoy when it comes to strategic planning and talking about challenges 💻
 
