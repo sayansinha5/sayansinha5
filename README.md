@@ -1,7 +1,5 @@
 # Hello, I'm Sayan Sinha 👋
 
-## About me
-
 I’m working as a Lead Software Engineer at [Wittypen](https://wittypen.com).
 
 Most of the time I spend on reviewing PRs, fixing bugs, testing features and building something new. I enjoy when it comes to strategic planning and talking about challenges 💻
