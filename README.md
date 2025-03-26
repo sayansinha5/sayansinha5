@@ -1,4 +1,4 @@
-# Hello, I'm Sayan Sinha 👋
+# I'm Sayan — @sayansinha5 👋
 
 I’m working as a Lead Software Engineer at [Wittypen](https://wittypen.com).
 
