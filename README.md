@@ -17,8 +17,8 @@ In meantime, not only participated but won many hackathons.
 
 ## Connect with me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/sayansinha5)
-- 🐦 [Twitter](https://twitter.com/sayansinha51)
-- 📰 [Blog articles](https://medium.com/@sayansinha5)
-- 😎 [Instagram](https://instagram.com/mrsupermb)
-- 📧 [Email](mailto:sayansinha5@gmail.com)
+- 🌐 LinkedIn — [linkedin.com/in/sayansinha5](https://www.linkedin.com/in/sayansinha5)
+- 🐦 Twitter — [@sayansinha51](https://twitter.com/sayansinha51)
+- 📰 Blogs — [medium.com/@sayansinha5](https://medium.com/@sayansinha5)
+- 😎 Instagram — [@mrsupermb](https://instagram.com/mrsupermb)
+- 📧 Email — [sayansinha5@gmail.com](mailto:sayansinha5@gmail.com)
