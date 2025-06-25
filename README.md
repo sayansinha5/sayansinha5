@@ -4,7 +4,7 @@ I’m working as a Lead Software Engineer at [Wittypen](https://wittypen.com).
 
 Most of the time I spend on reviewing PRs, fixing bugs, testing features and building something new. I enjoy when it comes to strategic planning and talking about challenges 💻
 
-In meantime, not only participated but won many hackathons.
+In meantime, not only participated but won many hackathons like Intel, Informatica, ATMECS, etc.
 
 
 ## 📰 Blogs to read
