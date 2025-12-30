@@ -1,6 +1,6 @@
 # I'm Sayan — @sayansinha5 👋
 
-Ex - Lead Software Engineer @ [Wittypen](https://wittypen.com).
+Fullstack @ [ZS](https://www.zs.com) | Ex - Lead Software Engineer @ [Wittypen](https://wittypen.com).
 
 
 ## 📰 Blogs to read
