@@ -1,6 +1,10 @@
 # I'm Sayan — @sayansinha5 👋
 
 Fullstack @ [ZS](https://www.zs.com) | Ex - Lead Software Engineer @ [Wittypen](https://wittypen.com).
+With 4 years of experience in MEAN, MEVN, PHP Laravel and FastAPI.
+
+Beside I am working with Data Engineering in my current job.
+Learning DevOps and Cloud.
 
 
 ## 📰 Blogs to read
