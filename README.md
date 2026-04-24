@@ -2,9 +2,8 @@
 
 Fullstack @ [ZS](https://www.zs.com) | Ex - Lead Software Engineer @ [Wittypen](https://wittypen.com)
 
-With 4 years of experience in MEAN, MEVN, PHP Laravel and FastAPI.
-
-Learning DevOps and Cloud.
+With 4 years of experience in MEAN, MERN, MEVN, PHP Laravel and Python FastAPI.
+Now, Fullstack x AI.
 
 
 ## 📰 Blogs to read
