@@ -6,9 +6,11 @@ With 4 years of experience in -
 - MEAN, MERN,MEVN,
 - PHP Laravel, Node, Python FastAPI.
 
-Now, Fullstack with AI.
+🪴 Now, Fullstack with AI.
+🌿 Worked as a fullstack, and as a Data Engineer on Databricks. 
+🌿 Worked with GenAI. Created Ingestion systems, strategize document chunking and created RAG pipelines.
 
-Currently, learning about AI Agents and need help with Agentic Systems.
+🌱 Currently, learning about AI Agents and need help with Agentic Systems.
 
 
 ## 📰 Blogs to read
