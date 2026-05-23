@@ -7,7 +7,9 @@ With 4 years of experience in -
 - PHP Laravel, Node, Python FastAPI.
 
 🪴 Now, Fullstack with AI.
+
 🌿 Worked as a fullstack, and as a Data Engineer on Databricks. 
+
 🌿 Worked with GenAI. Created Ingestion systems, strategize document chunking and created RAG pipelines.
 
 🌱 Currently, learning about AI Agents and need help with Agentic Systems.
