@@ -13,9 +13,7 @@ I am a fullstack developer with AI. A tech polyglot with 4 years of experience, 
 ## Current focus
 
 🌱 Currently, learning about AI Agents.\
-
 🌱 Need help with Agentic Systems and Agentic-UI.\
-
 🌱 Vibe Coding!!!
 
 
