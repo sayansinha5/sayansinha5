@@ -1,11 +1,9 @@
 # I'm Sayan — @sayansinha5 👋
 
-I am a fullstack developer with AI. A tech polyglot with 4 years of experience.
+I am a fullstack developer with AI. A tech polyglot with 4 years of experience, building scalable backend systems for AI infrastructure applying System Design methodologies.
 
-I build scalable backend systems for AI infrastructure applying System Design methodologies.
-
-🌿 Worked as a fullstack, and as a Data Engineer on Databricks. 
-
+🌿 Worked as a fullstack, and as a Data Engineer on Databricks.
+<br />
 🌿 Worked with GenAI. Created Ingestion systems, strategize document chunking and created RAG pipelines.
 
 
