@@ -1,6 +1,6 @@
 # I'm Sayan — @sayansinha5 👋
 
-I am a fullstack developer with AI.\ 
+I am a fullstack developer with AI.\
 A tech polyglot with 4 years of experience, building scalable backend systems for AI infrastructure applying System Design methodologies.
 
 🌿 Worked as a fullstack, and as a Data Engineer on Databricks.\
