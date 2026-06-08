@@ -2,6 +2,7 @@
 
 I am a fullstack developer with AI.\
 A tech polyglot with 4 years of experience, building scalable backend systems for AI infrastructure.
+Worked on frontend systems, UI / UX, designed components on brand guidelines.
 
 🌿 Worked as a fullstack, and as a Data Engineer on Databricks.\
 🌿 Worked with GenAI. Created Ingestion systems, strategize document chunking and created RAG pipelines.
