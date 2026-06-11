@@ -16,7 +16,7 @@ Worked on frontend systems, UI / UX, designed components on brand guidelines.
 
 🌱 Currently, learning about AI Agents.\
 🌱 Need help with Agentic Systems and Agentic-UI.\
-🌱 Vibe Coding!!!
+🪄 Vibe Coding!!!
 
 
 ## 📰 Blogs to read
