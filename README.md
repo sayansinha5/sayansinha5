@@ -5,7 +5,8 @@ A tech polyglot with 4 years of experience, building scalable backend systems fo
 Worked on frontend systems, UI / UX, designed components on brand guidelines.
 
 🌿 Worked as a fullstack, and as a Data Engineer on Databricks.\
-🌿 Worked with GenAI. Created Ingestion systems, strategize document chunking and created RAG pipelines.
+🌿 Worked with GenAI. 
+🌿 Created Ingestion systems, strategize document chunking and worked on RAG.
 
 
 ## Experience
