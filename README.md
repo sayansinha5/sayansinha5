@@ -10,7 +10,7 @@ Worked on frontend systems, UI / UX, designed components on brand guidelines.
 
 
 ## Experience
-- Fullstack @ [ZS](https://www.zs.com)
+- Fullstack @ [ZS Associates](https://www.zs.com)
 - Ex - Lead Software Engineer @ [Wittypen](https://wittypen.com)
 
 ## Current focus
