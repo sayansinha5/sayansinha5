@@ -1,6 +1,6 @@
 # I'm Sayan — @sayansinha5 👋
 
-I am a fullstack developer with AI.\
+A fullstack developer with AI.\
 A tech polyglot with 4 years of experience, building scalable backend systems for AI infrastructure.\
 Worked on frontend systems, UI / UX, designed components on brand guidelines.
 
